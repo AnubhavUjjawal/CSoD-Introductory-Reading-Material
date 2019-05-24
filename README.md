@@ -118,15 +118,15 @@ Awesome Git List [Text] - https://github.com/dictcp/awesome-git
 Udacity - How to use Git and Github [Video] - https://www.youtube.com/playlist?list=PLAwxTw4SYaPk8_-6IGxJtD3i2QAu5_s_p
 		
 **What should you learn? Prerequisite for the program**
-- [ ] How to clone a Git repository?
-- [ ] How to pull/push to remote repository?
-- [ ] How to check the status of the repository?
-- [ ] How to create and switch to a branch?
-- [ ] How to connect to a remote a repository?
-- [ ] How to merge two branch?
-- [ ] How to resolve merge conflicts?
-- [ ] How to commit changes?
-- [ ] How to stash changes?
+- [x] How to clone a Git repository?
+- [x] How to pull/push to remote repository?
+- [x] How to check the status of the repository?
+- [x] How to create and switch to a branch?
+- [x] How to connect to a remote a repository?
+- [x] How to merge two branch?
+- [x] How to resolve merge conflicts?
+- [x] How to commit changes?
+- [x] How to stash changes?
 			
 <!-- ##   <a name='Postman'></a>2.2. Postman  -->
 ### <a name='Intellij'></a>**Intellij**
