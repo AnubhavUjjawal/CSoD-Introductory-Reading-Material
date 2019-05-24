@@ -152,9 +152,9 @@ Official Documentation [Text] - https://learning.getpostman.com/docs/postman/lau
 Crash Course [Video] - https://www.youtube.com/watch?v=D26eEw7dI-c
 
 **What should you learn? Prerequisite for the program**
-- [ ] How to use Postman GUI to send HTTP requests?
-- [ ] How to create collections in Postman?
-- [ ] How to import Curl commands in Postman?
+- [x] How to use Postman GUI to send HTTP requests?
+- [x] How to create collections in Postman?
+- [x] How to import Curl commands in Postman?
 
 
 ## <a name='Language'></a>Language
