@@ -141,9 +141,9 @@ https://www.youtube.com/watch?v=CmPJzEqFS4s
 
 		
 **What should you learn? Prerequisite for the program**
-- [ ] How to run and debug Java programs?
-- [ ] Basic shortcuts for productivity
-- [ ] How to import project, build programs using Gradle
+- [x] How to run and debug Java programs?
+- [x] Basic shortcuts for productivity
+- [x] How to import project, build programs using Gradle
 
 ### <a name='Postman'></a>**Postman**
 
