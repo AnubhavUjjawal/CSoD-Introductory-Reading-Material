@@ -216,9 +216,9 @@ Basic Linux Commands [Video] - https://www.youtube.com/watch?v=cBokz0LTizk
 
 
 **What should you learn? Prerequisite for the program**
-- [ ] How to create files and folders?
-- [ ] How to copy, move, delete files and folders?
-- [ ] How to run basic networking commands like ipconfig, netstat etc
+- [x] How to create files and folders?
+- [x] How to copy, move, delete files and folders?
+- [x] How to run basic networking commands like ipconfig, netstat etc
 
 ## <a name='UnitTesting'></a>Unit Testing
 
