@@ -202,9 +202,9 @@ Crash Course [Video] - https://www.youtube.com/watch?v=-0X8mr6Q8Ew&list=PLGLfVvz
 
 
 **What should you learn? Prerequisite for the program**
-- [ ] How to connect to MongoDB database using CMD, GUI Clients like Robomongo? 
-- [ ] How to write basic Mongodb Queries to find, delete, update documents in MongoDb?
-- [ ] How to use Grouping, Sorting, Selection, Aggregation functions in Mongodb?
+- [x] How to connect to MongoDB database using CMD, GUI Clients like Robomongo/ mongoDB compass? 
+- [x] How to write basic Mongodb Queries to find, delete, update documents in MongoDb?
+- [x] How to use Grouping, Sorting, Selection, Aggregation functions in Mongodb?
 
 
 ## <a name='Linux'></a>Linux 
@@ -233,4 +233,4 @@ Importance of Unit Testing [Article] - https://dzone.com/articles/top-8-benefits
 **What should you learn? Prerequisite for the program**
 - [ ] How to write test cases?
 - [ ] How to test functions?
-- [ ] Importance of Unit testing
+- [x] Importance of Unit testing
